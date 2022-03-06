@@ -1,7 +1,3 @@
-'''
-Python Program to Check Weather Forecast
-'''
-
 # Import the necessary modules!
 import requests
 
